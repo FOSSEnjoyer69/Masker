@@ -15,7 +15,7 @@ pip install -r requirements.txt
 1. Make sure you have linked the interperator to the virtual enviornment
 2. Run the code below
 ```bash
-python3 main.py
+python3 src/main.py
 ```
 
 ### Limitations
